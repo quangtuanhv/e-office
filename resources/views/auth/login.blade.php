@@ -1,7 +1,7 @@
-@extends('layouts.app')
+@extends('master')
 
 @section('content')
-<div class="container">
+<div class="container center-form">
     <div class="row">
         <div class="col-md-5 col-md-offset-7">
             <div class="panel panel-default">
