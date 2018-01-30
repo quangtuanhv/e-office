@@ -1,0 +1,13 @@
+.app-login{
+	background: url("../img/bg-login.jpg")  ;
+	background-size: cover;
+
+}
+.center-form{
+	margin-top: 100px;
+}
+.panel-heading {
+	font-size: 25px;
+	font-style: bold;
+	text-align: center;
+}
